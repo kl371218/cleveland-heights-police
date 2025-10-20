@@ -1,2 +1,2 @@
-all_parsed_pdfs.txt filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
+all_parsed_pdfs_part_* filter=lfs diff=lfs merge=lfs -text
